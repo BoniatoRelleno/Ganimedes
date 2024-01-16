@@ -16,6 +16,17 @@ I will be investigating LethalLevelLoader as well and if it works better I will 
 # New scrap 
 6 new thematic scraps that only appear on the new moon! Maybe there is some surprise ;)
 
+![Ganimedes Image 1](https://i.imgur.com/y0zgjQD.png)
+
+<details>
+  <summary>Click to View More Images</summary>
+
+  ![Ganimedes Image 2](https://i.imgur.com/yjpZTfQ.png)
+
+  ![Ganimedes Image 3](https://i.imgur.com/7ehb58w.png)
+
+</details>
+
 ## Installation 
 1. Install [BepInEx](https://thunderstore.io/c/lethal-company/p/BepInEx/BepInExPack/) into your game. 
 2. Download [LethalExpansion](https://thunderstore.io/c/lethal-company/p/HolographicWings/LethalExpansion/) and drop it into "Lethal Company\BepInEx\plugins\" 
