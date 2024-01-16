@@ -28,13 +28,13 @@ I will be investigating LethalLevelLoader as well and if it works better I will 
 
 </details>
 
-## Installation 
+# Installation 
 1. Install [BepInEx](https://thunderstore.io/c/lethal-company/p/BepInEx/BepInExPack/) into your game. 
 2. Download [LethalExpansion](https://thunderstore.io/c/lethal-company/p/HolographicWings/LethalExpansion/) and drop it into "Lethal Company\BepInEx\plugins\" 
 3. Download this mod and move "Ganimedes.lem" to "Lethal Company\\BepInEx\\plugins\\Modules\".
 
-## Changelog 
+# Changelog 
 Ignore the last number of the versions, there are only readme changes.
-### v1.0.0 
+## v1.0.0 
 - A new moon "2 Ganimedes" 
 - 6 new scraps
