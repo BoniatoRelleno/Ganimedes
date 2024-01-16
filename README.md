@@ -16,7 +16,7 @@ I will be investigating LethalLevelLoader as well and if it works better I will 
 # New scrap 
 6 new thematic scraps that only appear on the new moon! Maybe there is some surprise ;)
 
-## Images
+# Images
 ![Ganimedes Image 1](https://i.imgur.com/y0zgjQD.png)
 
 <details>
