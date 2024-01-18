@@ -8,10 +8,11 @@ My priority making this moon has been the gameplay, the variety of routes and th
 
 >HISTORY: Ganimedes is known for having been the largest mine moon, however now it is abandoned. It still has riches inside but the risk is too high.
 
->FAUNA: A great variety of aggresive and dangerous lifeforms inhabits this moon.
+>FAUNA: A great variety of aggressive and dangerous lifeforms inhabits this moon.
 
-It needs some balancing so I will be testing it and updating, don't hesitate to report bugs or suggestions in my github. 
-I will be investigating LethalLevelLoader as well and if it works better I will migrate the mod to the new API.
+>COST: 1200 (you can ask me for a custom cost version on Discord or change the moon price multiplier of Lethal Expansion)
+
+I will continue improving and updating it, so don't hesitate to report bugs or suggestions in my github or in the discord forum. All feedback is appreciated <3
 
 # New scrap 
 6 new thematic scraps that only appear on the new moon! Maybe there is some surprise ;)
@@ -28,6 +29,7 @@ I will be investigating LethalLevelLoader as well and if it works better I will 
 
 </details>
 
+
 ## Installation 
 1. Install [BepInEx](https://thunderstore.io/c/lethal-company/p/BepInEx/BepInExPack/) into your game. 
 2. Download [LethalExpansion](https://thunderstore.io/c/lethal-company/p/HolographicWings/LethalExpansion/) and drop it into "Lethal Company\BepInEx\plugins\" 
@@ -35,6 +37,12 @@ I will be investigating LethalLevelLoader as well and if it works better I will 
 
 ## Changelog 
 Ignore the last number of the versions, there are only readme changes.
+### v1.1.0
+- Landing place of the ship and the dropship changed
+- Amount of turrets and mines increased
+- Added unevenness to the terrain
+- Added a cement block to 2 fire exits
+- Some minor map objects changes
 ### v1.0.0 
 - A new moon "2 Ganimedes" 
 - 6 new scraps
