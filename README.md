@@ -12,10 +12,12 @@ My priority making this moon has been the gameplay, the variety of routes and th
 
 >COST: 1200 (you can ask me for a custom cost version on Discord or change the route price with other mods)
 
-I will continue improving and updating it, so don't hesitate to report bugs or suggestions in my [github](https://github.com/BoniatoRelleno/Ganimedes) or in the [Discord forum](https://discord.gg/6ds27tH8). All feedback is appreciated <3
+The internal name for custom dungeon interiors is just `Ganimedes`
+
+I will continue improving and updating it, so don't hesitate to report bugs or suggestions in my [github](https://github.com/BoniatoRelleno/Ganimedes) or in the Ganimedes thread located in the "mod-releases" channel of the [Lethal Company Modding Discord](https://discord.gg/6ds27tH8). All feedback is appreciated <3
 
 # New scrap 
-6 new thematic scraps that only appear on the new moon! Maybe there is some surprise ;)
+7 new thematic scraps that only appear on the new moon! Maybe there is some surprise ;)
 
 # Images
 ![Ganimedes Image 1](https://i.imgur.com/y0zgjQD.png)
@@ -29,11 +31,10 @@ I will continue improving and updating it, so don't hesitate to report bugs or s
 
 </details>
 
-
 ## Installation 
 1. Install [BepInEx](https://thunderstore.io/c/lethal-company/p/BepInEx/BepInExPack/) into your game. 
 2. Download [LethalLib](https://thunderstore.io/c/lethal-company/p/Evaisa/LethalLib/) and [LethalLevelLoader](https://thunderstore.io/c/lethal-company/p/IAmBatby/LethalLevelLoader/), then drop both into "Lethal Company\\BepInEx\\plugins\\". 
-3. Download this mod and move "ganimedes.lethalbundle" and "ganimedeslevels.lethalbundle" to "Lethal Company\\BepInEx\\plugins\\LethalBundles\\".
+3. Download this mod and move the folder "BepInEx" to Lethal Company directory.
 
 ### Old installation (v1.2.0 and lower)
 1. Install [BepInEx](https://thunderstore.io/c/lethal-company/p/BepInEx/BepInExPack/) into your game. 
@@ -42,6 +43,16 @@ I will continue improving and updating it, so don't hesitate to report bugs or s
 
 ## Changelog 
 Ignore the last number of the versions, there are only readme changes.
+### v1.8.0
+- A new custom scrap! 
+- Nutcracker spawn chance increased 
+### v1.7.0
+- All custom scrap issues fixed!
+### v1.6.0
+- Fixed some wrong custom scrap prefabs
+### v1.5.0
+- New realistic planet prefab
+- Level description shortened to show it full
 ### v1.4.0
 - Missing scan nodes fixed
 - Added ground fog
