@@ -10,14 +10,14 @@ My priority making this moon has been the gameplay, the variety of routes and th
 
 >FAUNA: A great variety of aggressive and dangerous lifeforms inhabits this moon.
 
->COST: 1200 (you can ask me for a custom cost version on Discord or change the route price with other mods)
+>COST: 1200 (you can change it from the configuration file)
 
 The internal name for custom dungeon interiors is just `Ganimedes`
 
 I will continue improving and updating it, so don't hesitate to report bugs or suggestions in my [github](https://github.com/BoniatoRelleno/Ganimedes) or in the Ganimedes thread located in the "mod-releases" channel of the [Lethal Company Modding Discord](https://discord.gg/6ds27tH8). All feedback is appreciated <3
 
 # New scrap 
-7 new thematic scraps that only appear on the new moon! Maybe there is some surprise ;)
+8 new thematic scraps that only appear on the new moon! Maybe there is some surprise ;)
 
 # Images
 ![Ganimedes Image 1](https://i.imgur.com/y0zgjQD.png)
@@ -34,7 +34,7 @@ I will continue improving and updating it, so don't hesitate to report bugs or s
 ## Installation 
 1. Install [BepInEx](https://thunderstore.io/c/lethal-company/p/BepInEx/BepInExPack/) into your game. 
 2. Download [LethalLib](https://thunderstore.io/c/lethal-company/p/Evaisa/LethalLib/) and [LethalLevelLoader](https://thunderstore.io/c/lethal-company/p/IAmBatby/LethalLevelLoader/), then drop both into "Lethal Company\\BepInEx\\plugins\\". 
-3. Download this mod and move the folder "BepInEx" to Lethal Company directory.
+3. Download this mod and move the folder "Ganimedes" to "Lethal Company\\BepInEx\\plugins\\".
 
 ### Old installation (v1.2.0 and lower)
 1. Install [BepInEx](https://thunderstore.io/c/lethal-company/p/BepInEx/BepInExPack/) into your game. 
@@ -43,6 +43,10 @@ I will continue improving and updating it, so don't hesitate to report bugs or s
 
 ## Changelog 
 Ignore the last number of the versions, there are only readme changes.
+### v1.9.0
+- A new custom scrap!
+- Configuration file added
+- Sandworms don't attack issue fixed
 ### v1.8.0
 - A new custom scrap! 
 - Nutcracker spawn chance increased 
@@ -60,7 +64,7 @@ Ignore the last number of the versions, there are only readme changes.
 ### v1.3.0
 - Switch to LethalLevelLoader!
 - Added Coffee Mug and Pill Bottle as spawnable scrap
-### v1.2.0
+### v1.2.0 (Last version using Lethal Expansion)
 - Part of the map invisible on the monitor fixed
 - Limit of shadows on screen increased
 - Fixed a small hitbox issue
