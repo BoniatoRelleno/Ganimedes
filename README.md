@@ -6,7 +6,7 @@ My priority making this moon has been the gameplay, the variety of routes and th
 
 >CONDITIONS: Jagged and dry, it is a old mine.
 
->HISTORY: Ganimedes is known for having been the largest mine moon, however now it is abandoned. It still has riches inside but the risk is too high.
+>HISTORY: Ganimedes is known for having been the largest mine moon, however now it is abandoned. There are rumors that say that given its dangerous conditions, it was eventually banned and companies moved to Titan. It still has riches inside but the risk is too high.
 
 >FAUNA: A great variety of aggressive and dangerous lifeforms inhabits this moon.
 
@@ -14,10 +14,19 @@ My priority making this moon has been the gameplay, the variety of routes and th
 
 The internal name for custom dungeon interiors is just `Ganimedes`
 
-I will continue improving and updating it, so don't hesitate to report bugs or suggestions in my [github](https://github.com/BoniatoRelleno/Ganimedes) or in the Ganimedes thread located in the "mod-releases" channel of the [Lethal Company Modding Discord](https://discord.gg/6ds27tH8). All feedback is appreciated <3
+I will continue improving and updating it, so don't hesitate to report bugs or suggestions in my [Github](https://github.com/BoniatoRelleno/Ganimedes) or in the Ganimedes thread located in the "mod-releases" channel of the [Lethal Company Modding Discord](https://discord.gg/6ds27tH8). All feedback is appreciated <3
 
 # New scrap 
 8 new thematic scraps that only appear on the new moon! Maybe there is some surprise ;)
+
+<details>
+  <summary>Spoilers</summary>
+  
+  To add your own songs to the Mp3 player you only have to drop them in "Lethal Company\\BepInEx\\plugins\\Ganimedes\\CustomSongs" folder.
+  You can also use the same directory that Custom Boombox ("BepInEx\\Custom Songs\\Boombox Music") enabling an option in the configuration file.
+  The supported extensions are '.mp3', '.wav' and '.ogg'.
+
+</details>
 
 # Images
 ![Ganimedes Image 1](https://i.imgur.com/y0zgjQD.png)
@@ -43,7 +52,11 @@ I will continue improving and updating it, so don't hesitate to report bugs or s
 
 ## Changelog 
 Ignore the last number of the versions, there are only readme changes.
-### v1.9.0
+### v2.0.0
+- Now you can add your own songs!
+- Fixed the issues in multiplayer of the new custom scrap of 1.9.0
+- Fixed issues with the sync of the songs
+### v1.9.0 (Important issue with the new custom scrap, please download a later version)
 - A new custom scrap!
 - Configuration file added
 - Sandworms don't attack issue fixed
