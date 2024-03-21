@@ -17,7 +17,7 @@ The internal name for custom dungeon interiors is just `Ganimedes`
 I will continue improving and updating it, so don't hesitate to report bugs or suggestions in my [Github](https://github.com/BoniatoRelleno/Ganimedes) or in the Ganimedes thread located in the "mod-releases" channel of the [Lethal Company Modding Discord](https://discord.gg/6ds27tH8). All feedback is appreciated <3
 
 # New scrap 
-8 new thematic scraps that only appear on the new moon! Maybe there is some surprise ;)
+9 new thematic scraps that only appear on the new moon! Maybe there is some surprise ;)
 
 <details>
   <summary>Spoilers</summary>
@@ -52,6 +52,16 @@ I will continue improving and updating it, so don't hesitate to report bugs or s
 
 ## Changelog 
 Ignore the last number of the versions, there are only readme changes.
+### v2.2.0
+- A new mechanic! There are hidden treasures on the moon!
+- Huge optimization of the map! All mesh colliders have been removed and done manually.
+- Map objects are now static to improve the performance.
+- Some modifications and additions to the map.
+- Scrap falling through map objects fixed.
+- Standardized scrap name formats.
+### v2.1.0
+- A new custom scrap with unique mechanics!
+- Lag when playing songs reduced.
 ### v2.0.0
 - Now you can add your own songs!
 - Fixed the issues in multiplayer of the new custom scrap of 1.9.0
