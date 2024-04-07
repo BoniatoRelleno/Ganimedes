@@ -14,7 +14,7 @@ My priority making this moon has been the gameplay, the variety of routes and th
 
 The internal name for custom dungeon interiors is just `Ganimedes`
 
-I will continue improving and updating it, so don't hesitate to report bugs or suggestions in my [Github](https://github.com/BoniatoRelleno/Ganimedes) or in the Ganimedes thread located in the "mod-releases" channel of the [Lethal Company Modding Discord](https://discord.gg/6ds27tH8). All feedback is appreciated <3
+I will continue improving and updating it, so don't hesitate to report bugs or suggestions in my [Github](https://github.com/BoniatoRelleno/Ganimedes) or in the Ganimedes thread located in the "mod-releases" channel of [Lethal Company Modding Discord](https://discord.gg/lcmod) and [Unofficial Lethal Company Community Discord](https://discord.gg/lethal-company). All feedback is appreciated <3
 
 # New scrap 
 9 new thematic scraps that only appear on the new moon! Maybe there is some surprise ;)
